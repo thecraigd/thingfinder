@@ -1,0 +1,44 @@
+body {
+	margin: 0;
+	font-family: 'Syne', sans-serif;
+	background-color: #aed6f1 ;
+}
+
+table {
+  border: 5px solid black;
+  border-collapse: collapse;
+  text-align: center;
+  padding: 10px;
+}
+
+td{
+  border: 2px solid black;
+  border-collapse: collapse;
+  text-align: center;
+  padding: 10px;
+  font-weight: lighter;
+}
+
+th {
+  border: 2px solid black;
+  border-collapse: collapse;
+  text-align: center;
+  padding: 10px;
+  font-weight: bold;
+}
+
+img {
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.centred {
+	margin: auto;
+    width: 50%;
+    padding: 10px;
+}
+
+.bg-dark {
+    background-color: #85c1e9 !important;
+}
