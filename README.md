@@ -1,9 +1,3 @@
-# thingfinder
-CRUD app using Flask
-
-https://thingfinder.herokuapp.com/
-
-
 [![CraigDoesData][logo]][link]
 
 [logo]: ./logo.png
