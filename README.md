@@ -22,7 +22,7 @@ I followed [this tutorial](https://www.youtube.com/watch?v=Z1RJmh_OqeA) from [Ja
 
 #### Current Issues
 
-The app does not currently support sessions, which means one database is shared by all users. This obviously limits its real-life effectiveness! I want to learn more about implementing sessions in Flask and allowing users to login so that they (and only rthey) can access their own items. That was beyond the scope of the tutorial I followed however, so I will get to it when I have a chance in the future.
+The app does not currently support sessions, which means one database is shared by all users. This obviously limits its real-life effectiveness! I want to learn more about implementing sessions in Flask and allowing users to login so that they (and only they) can access their own items. That was beyond the scope of the tutorial I followed however, so I will get to it when I have a chance in the future.
 
 As I am using the free tier of Heroku presently, the app is also not persistent over time. As Heroku shuts it down, it resets to its default mode and consequently loses all saved items. This also limits its real-life effectiveness. I don't currently plan to upgrade my Heroku tier, so this issue will persist for now.
 
